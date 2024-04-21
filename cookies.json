@@ -1,0 +1,73 @@
+[
+  {
+    "name": ".AspNet.ApplicationCookie",
+    "value": "rBNZCDITh_YMEfy_C75ALWSdFzbWU4KqsjXnwWUR9jfLTh28h-qs_FoVXq41btjY2co4qWi-hMsAM5wYkAs5wmWKzTABU2kBxq5drPxpK8ThoMR1gE7kd4j0nFvtmoQ7Q15f-yEja3ATyn3IFV0aw5zY5Gwx10geVO5e62YUQTpAgFYQ2xjJm1oBQnoLW7dxqA8CjpfO5lo-Pr8sdM1YJFsCnNDrERvs2lR8_nHaVb01lOEtCAKvg5JpiW6x76MAlD8KRr2wWekCf3YMysr_WN3lJxTyKn2kyNqJJRJOK5Skv-gHAD57rw9WUH7EKLguTKl_kmMRjKKWyUFINU0V69csgr4RwWj8d9Flf-Vm4NMfDvPrcT8uAK6nx9mrwxAot5-79cUaIRfAnJX2mqu6jA3XUXLvQpSh7SD3uQiwnckYxN-mKV9C-v5UuRfVlLIT-l7mW4qpil7moZEN8T7j5EnuvMsedlWsBMhBzIejLSQddoMgPpkJ4oF2KQAXIw1IaQBHLbzXXHt8BwSCq9zEsVJ62jwVgrtk5pwPKgucYAQLHJzqghTFXU6uNKTPywUJsqaEH6Xl44XjLcBM_PPhPA",
+    "domain": "studentservice.iust.ac.in",
+    "path": "/",
+    "expires": -1,
+    "size": 623,
+    "httpOnly": true,
+    "secure": true,
+    "session": true,
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  },
+  {
+    "name": "__RequestVerificationToken",
+    "value": "YghjwZrTDiTmeIu9988UuQMe7vO7aNYvbcHBGZ2dsZf_3HbHMcdptW7t8th4xQXCcAdUhON8EV65Db2IdE-Oh1QJmAL8obkBc4mpzgO1-n01",
+    "domain": "studentservice.iust.ac.in",
+    "path": "/",
+    "expires": -1,
+    "size": 134,
+    "httpOnly": true,
+    "secure": false,
+    "session": true,
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  },
+  {
+    "name": "__AntiXsrfToken",
+    "value": "e38c6ad007304dba865641f345cbbdd9",
+    "domain": "studentservice.iust.ac.in",
+    "path": "/",
+    "expires": -1,
+    "size": 47,
+    "httpOnly": true,
+    "secure": false,
+    "session": true,
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  },
+  {
+    "name": "__AntiXsrfTokenSS",
+    "value": "e01b4362b3dd47cbaecfbeed0989ef95",
+    "domain": "studentservice.iust.ac.in",
+    "path": "/",
+    "expires": -1,
+    "size": 49,
+    "httpOnly": true,
+    "secure": false,
+    "session": true,
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  },
+  {
+    "name": "ASP.NET_SessionId",
+    "value": "oe1ssbyhhlptccielfetdyxz",
+    "domain": "studentservice.iust.ac.in",
+    "path": "/",
+    "expires": -1,
+    "size": 41,
+    "httpOnly": true,
+    "secure": false,
+    "session": true,
+    "sameSite": "Lax",
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  }
+]
