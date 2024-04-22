@@ -11,6 +11,7 @@ on:
 env:
   NODE_ENV: ci
   PORT: 3000
+  SKIP_PREFLIGHT_CHECK: true
 
 
 jobs:
