@@ -1,4 +1,3 @@
-const { TimeSeriesBucketTimestamp } = require('redis');
 const Page = require('./helpers/page');
 
 let page;
