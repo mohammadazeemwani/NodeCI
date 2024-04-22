@@ -7,7 +7,7 @@ class CustomPage {
     const browser = await puppeteer.launch({ 
       headless: true, 
       args: [
-        '--no-sandbox'
+        '--no-sandbox',
         `--disable-setuid-sandbox`
       ]
     }); // instance of browser
