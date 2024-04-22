@@ -8,7 +8,7 @@ class CustomPage {
       headless: true, 
       args: [
         '--no-sandbox',
-        `--disable-setuid-sandbox`
+        `--disable-setuid-sandbox` 
       ]
     }); // instance of browser
     const page = await browser.newPage(); //instance of puppeteer page
