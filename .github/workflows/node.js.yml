@@ -61,7 +61,7 @@ jobs:
     - name: Install dependencies
       run: |
         npm install --force
-        cd client && npm install
+        cd client && npm install --force
 
     - name: Build
       run: npm run build
