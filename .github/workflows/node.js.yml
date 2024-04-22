@@ -66,6 +66,10 @@ jobs:
     - name: Build
       run: npm run build
 
+    - name: Download Chromium
+      run: |
+        npx puppeteer browsers install chrome
+
     - name: Start server
       run: nohup npm run start &
 
