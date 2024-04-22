@@ -8,6 +8,11 @@ on:
     branches:
       - main
 
+env:
+  NODE_ENV: ci
+  PORT: 3000
+
+
 jobs:
   build:
     runs-on: ubuntu-latest
