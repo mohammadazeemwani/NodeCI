@@ -70,7 +70,7 @@ jobs:
       run: nohup npm run start &
 
     - name: Wait for server to start
-      run: sleep 3
+      run: sleep 6
 
     - name: Test
       run: npm run test
